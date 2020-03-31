@@ -1,3 +1,4 @@
+[![Board Status](https://buster1313.visualstudio.com/2ffa8549-2c3f-45ad-8660-97214c8ebcdd/a7e7d39a-5a07-4894-a9b6-cdf9b1e4babc/_apis/work/boardbadge/c86f2f4b-2e9f-46ed-8249-bbbd51c1a9c6)](https://buster1313.visualstudio.com/2ffa8549-2c3f-45ad-8660-97214c8ebcdd/_boards/board/t/a7e7d39a-5a07-4894-a9b6-cdf9b1e4babc/Microsoft.RequirementCategory)
 ![Git Extensions logo](https://cdn.rawgit.com/gitextensions/gitextensions/master/Logo/git-extensions-logo.svg)
 
 # Git Extensions
